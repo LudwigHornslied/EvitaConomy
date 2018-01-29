@@ -1,0 +1,7 @@
+db:
+  user: 'root'
+  password: '189#$xD587%'
+  host: 'localhost'
+  port: '3306'
+  dbname: 'evita'
+  useSSL: false

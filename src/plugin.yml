@@ -1,0 +1,10 @@
+main: com.tistory.hornslied.evitaonline.economy.Main
+name: EvitaConomy
+version: 1.0
+author: Ludwig Hornslied
+softdepend: [Vault]
+commands:
+  money:
+    aliases: [돈, bal, balance]
+  economy:
+    aliases: [eco, 경제]
